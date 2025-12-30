@@ -31,3 +31,8 @@ Release Note & Run details : https://www.notion.so/News-App-2d9ce7f6c7288023aea9
 
 -> Dependency Injection
    Centralized dependency graph
+
+
+📱 App Flow & Video
+-> https://drive.google.com/file/d/1zSdizMa4EVwZtmCvl_C0h3evN92jQiNq/view?usp=sharing
+
